@@ -1,4 +1,5 @@
 # portfolio_risk_analysis
+Beginner-friendly project for simulating a basic stock portfolio’s risk and return using Python.
 Simulating daily returns and risk metrics for a stock portfolio using Python
 # 📈 Portfolio Risk & Return Simulation
 
