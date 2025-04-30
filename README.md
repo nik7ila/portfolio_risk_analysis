@@ -12,3 +12,7 @@ Key tasks included:
 
 🔧 Tools: Python, pandas, matplotlib, yfinance  
 📊 Concepts: Return, Volatility, Sharpe Ratio  
+---
+
+📝 **Note**: This project was created as part of my learning process using guidance from AI 
+All code was run, tested, and understood by me. I’m continuing to grow in my data science and machine learning journey.
