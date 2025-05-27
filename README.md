@@ -14,7 +14,8 @@ This project helps measure the risk of investment portfolios by calculating Valu
 - Visualizes risk distributions and confidence intervals
 
 ## 📈 Sample Output
-*(Add a plot showing VaR distribution here if possible)*
+![image](https://github.com/user-attachments/assets/9e1cd55e-a1fe-45c1-b0aa-605e3945d9c7)
+
 
 ## 🚀 How to Run
 ```bash
